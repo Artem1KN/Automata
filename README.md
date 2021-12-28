@@ -6,5 +6,5 @@ automata.js JavaScript код
 
 Для запуска в cmd:
 
-node automata.js text( 1 / 2 ).txt %подстрока%
+node automata.js text( 1 / 2 / 3 ).txt %подстрока%
 
