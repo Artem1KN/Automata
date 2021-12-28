@@ -1,6 +1,6 @@
 Сажин Артём КНМО-101
 
-text1.txt и text2.txt Файлы со строкой для поиска
+text1.txt text2.txt text3.txt Файлы со строкой для поиска
 
 automata.js JavaScript код
 
